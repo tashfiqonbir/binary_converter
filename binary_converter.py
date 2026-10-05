@@ -40,7 +40,7 @@ def main():
     while True:
         clear_screen()
         print("╭───────────────────────────────────────────────╮")
-        print("│        ✨ BINARY CONVERTER TOOL ✨            │")
+        print("│        ✨ BINARY CONVERTER TOOL BY ONBIR ✨            │")
         print("╰───────────────────────────────────────────────╯")
         print("  [1] 📝 Encode: Text ➔ Binary")
         print("  [2] 🔓 Decode: Binary ➔ Text")
